@@ -1,2 +1,3 @@
 # devFinance
-Projeto pessoal focado em React e Node
+Projeto pessoal focado em React, Node e MySQL
+
